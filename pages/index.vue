@@ -28,8 +28,8 @@
           <!-- List of what you had did in the company -->
           <template v-slot:experience>
             <ul class="text-gray-600 list-inside list-disc mt-2 px-4">
-              <li>Lorem, ipsum dolor sit amet consectetur adipisicing elit. A, nihil. Aut sapiente ipsa fugiat quasi nisi officiis cumque, amet enim corporis. Pariatur distinctio maxime sint, ducimus quos quia nostrum atque.</li>
-              <li>Lorem, ipsum dolor sit amet consectetur adipisicing elit. A, nihil. Aut sapiente ipsa fugiat quasi nisi officiis cumque, amet enim corporis. Pariatur distinctio maxime sint, ducimus quos quia nostrum atque.</li>
+              <li>Built Dashboard  & Reports for Business Userse</li>
+              <li>Built API Servers to support Web Application and Mobile Application</li>
               <li>Lorem, ipsum dolor sit amet consectetur adipisicing elit. A, nihil. Aut sapiente ipsa fugiat quasi nisi officiis cumque, amet enim corporis. Pariatur distinctio maxime sint, ducimus quos quia nostrum atque.</li>
             </ul>
           </template>
