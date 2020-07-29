@@ -4,7 +4,7 @@
     <HeadWrapper
       name="Edmund Hee"
       title="Full Stack Developer"
-      userImgURL="../img/Edmund.jpeg"
+      userImgURL="https://cdn4.iconfinder.com/data/icons/instagram-ui-twotone/48/Paul-18-512.png"
       phone="+0123456789"
       email="edmund@thelead.io"
     />
@@ -28,7 +28,7 @@
           <!-- List of what you had did in the company -->
           <template v-slot:experience>
             <ul class="text-gray-600 list-inside list-disc mt-2 px-4">
-              <li>Built Dashboard  & Reports for Business Userse</li>
+              <li>Built Dashboard & Reports for Business Userse</li>
               <li>Built API Servers to support Web Application and Mobile Application</li>
               <li>Lorem, ipsum dolor sit amet consectetur adipisicing elit. A, nihil. Aut sapiente ipsa fugiat quasi nisi officiis cumque, amet enim corporis. Pariatur distinctio maxime sint, ducimus quos quia nostrum atque.</li>
             </ul>
